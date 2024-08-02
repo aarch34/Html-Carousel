@@ -1,2 +1,2 @@
 # Html-Carousel
-A simple webpage for displaying carousel and a modal
+A simple webpage for displaying a carousel 
